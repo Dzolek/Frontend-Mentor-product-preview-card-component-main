@@ -78,6 +78,9 @@ body{
     margin-left: 10px;
     font-weight: 700;
 }
+.btn .cart{
+    margin-right: 10px;
+}
 .btn:hover{
     background-color: hsl(150, 28%, 29%);
     cursor: pointer;
