@@ -37,11 +37,12 @@ body{
 .article .type{
     letter-spacing: 5px;
     color: hsl(212, 21%, 14%);
+    font-size: 12px;
 }
 
 .article .tittle{
     font-family: 'Fraunces', serif;
-    font-size: 32px;
+    font-size: 30px;
     padding: 20px 0px;
 }
 .article .text{
@@ -116,7 +117,7 @@ body{
         padding-left: 40px;
     }
     .article .tittle{
-        font-size: 38px;
+        font-size: 34px;
     }
     .pic .desktop{
         height: 100%;
