@@ -76,6 +76,7 @@ body{
 }
 .btn .text-btn{
     margin-left: 10px;
+    font-weight: 700;
 }
 .btn:hover{
     background-color: hsl(150, 28%, 29%);
